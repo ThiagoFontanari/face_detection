@@ -1,4 +1,4 @@
-# Face recognition system | Sistema de roconhecimento facial
+# Face recognition system | Sistema de reconhecimento facial
 
 This small face recognition system is capable of being trained to recognize up to 1 face, and can be used
 for authentication purposes, for example.
